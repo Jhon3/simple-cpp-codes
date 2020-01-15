@@ -1,0 +1,48 @@
+				 --Inicio dos testes--
+-----------------------------------------------------------------------------------------
+--Teste Iterator--
+>>>begin() aprovado. 
+>>>end() aprovado. 
+>>>cbegin() aprovado. 
+>>>cend() aprovado. 
+
+
+--Teste Capacity--
+>>>capacity() aprovado.
+>>>size() aprovado.
+>>>empty() aprovado.
+>>>full() aprovado.
+
+
+--Teste Modefier-- 
+>>>clear() aprovado.
+>>>push_back() aprovado.
+>>>pop_back() aprovado.
+>>>push_front() aprovado.
+>>>pop_front() aprovado.
+>>>shrink_to_fit() aprovado.
+>>>reserve() aprovado.
+>>>assign() aprovado.
+>>>assign_list() aprovado.
+>>>assign_range() aprovado. 
+>>>insert() aprovado. 
+>>>insert_range() aprovado.
+>>>insert_list() aprovado.
+>>>erase() aprovado.
+>>>erase()~range aprovado.
+
+
+--Teste Element acess--
+>>>front() aprovado.
+>>>back() aprovado.
+
+
+--Teste Operators--
+>>>operator==() aprovato.
+>>>operator!=() aprovado.
+
+
+-----------------------------------------------------------------------------------------
+				 --Fim dos testes--
+
+>>> Para mais detalhes sobre os testes por favor consultar os arquivos testes.cpp e testes.h.
